@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* Tambahkan smooth scrolling */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Styling tambahan untuk anchor link */
+  section {
+    scroll-margin-top: 70px; /* Sesuaikan dengan tinggi header */
+  }
